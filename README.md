@@ -43,8 +43,9 @@
 ---
 
 ## 📫 **ติดต่อและเชื่อมต่อกับผม**
-- 💼 **LinkedIn:** [Nobphadon Srimanta](https://www.linkedin.com/in/nobphadon-srimanta-9a1959342/)  
-- 🌐 **เว็บไซต์ส่วนตัว:** [Nobphalio](https://nobphalio.vercel.app/)  
+- 💼 **LinkedIn:** [Nobphadon Srimanta](https://www.linkedin.com/in/nobphadon-srimanta-9a1959342/)
+- 💼 **Jobsdb** [Nobphadon Srimanta](https://th.jobsdb.com/th/profile/nobphadon-srimanta-lGsqDRgsd5)
+- 🌐 **เว็บไซต์ส่วนตัว:** [Nobphalio](https://nobphalio.vercel.app/)
 
 ---
 
