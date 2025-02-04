@@ -44,7 +44,7 @@
 
 ## 📫 **ติดต่อและเชื่อมต่อกับผม**
 - 💼 **LinkedIn:** [Nobphadon Srimanta](https://www.linkedin.com/in/nobphadon-srimanta-9a1959342/)  
-- 🌐 **เว็บไซต์ส่วนตัว:** [Nobphalio](https://my-peofile-is-name-nobphalio.vercel.app/)  
+- 🌐 **เว็บไซต์ส่วนตัว:** [Nobphalio]([https://my-peofile-is-name-nobphalio.vercel.app/](https://nobphalio.vercel.app/))  
 
 ---
 
