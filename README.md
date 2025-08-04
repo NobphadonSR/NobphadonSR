@@ -7,7 +7,7 @@
   - **Frontend:** React.js, Angular, Tailwind CSS  
   - **Backend:** Django Framework, Node.js, React, Next.js  
   - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase  
-- 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):** DevOps, Docker, Kubernetes  
+- 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):** Automation Ai EX. n8n , Make.com etc. 
 - 🤝 **เปิดรับโอกาสร่วมงาน:**  
   - การพัฒนาโปรเจกต์ 
   - การทำงานร่วมกันในโปรเจกต์ Full-stack  
