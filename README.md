@@ -2,12 +2,12 @@
 ---
 
 ## 🚀 **เกี่ยวกับผม (About Me)**
-- 🎯 **ตำแหน่งปัจจุบัน:** Software Development ที่ [Sakol Work (Sakol Group)]  
-- 🎓 **Software:**  
-  - **Frontend:** React.js, Angular, Tailwind CSS  
+- 🎯 **ตำแหน่งปัจจุบัน:** Software Development ที่ **Sakol Work (Sakol Group)** 
+- 🎓 **Hard Skill:**  
+  - **Frontend:** React.js, Angular, Tailwind CSS, Bootstrap 
   - **Backend:** Django Framework, Node.js, React, Next.js  
   - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase  
-- 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):** Automation Ai EX. n8n , Make.com etc. 
+- 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):**Automation Ai
 - 🤝 **เปิดรับโอกาสร่วมงาน:**  
   - การพัฒนาโปรเจกต์ 
   - การทำงานร่วมกันในโปรเจกต์ Full-stack  
