@@ -1,9 +1,9 @@
-# 👋 สวัสดีครับ, ผม นพดล ศรีมันตะ (Nobphadon Srimanta)
+# 👋 สวัสดีครับ, ผมปั้น นพดล ศรีมันตะ (Nobphadon Srimanta)
 ---
 
 ## 🚀 **เกี่ยวกับผม (About Me)**
-- 🎯 **ตำแหน่งปัจจุบัน:** Full-stack ที่ [Sakol Work (Sakol Group)]  
-- 🎓 **เทคโนโลยี:**  
+- 🎯 **ตำแหน่งปัจจุบัน:** Software Development ที่ [Sakol Work (Sakol Group)]  
+- 🎓 **Software:**  
   - **Frontend:** React.js, Angular, Tailwind CSS  
   - **Backend:** Django Framework, Node.js, React, Next.js  
   - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase  
@@ -11,12 +11,13 @@
 - 🤝 **เปิดรับโอกาสร่วมงาน:**  
   - การพัฒนาโปรเจกต์ 
   - การทำงานร่วมกันในโปรเจกต์ Full-stack  
-  - การทำระบบที่สามารถขยายขนาดได้ (Scalable System)  
+  - การทำระบบที่สามารถขยายขนาดได้ (Scalable System)
+  - การทำระบบอัตโนมัติโดยใช้ n8n และ Make.com (ใหม่)
 - 📬 **ติดต่อผมได้ที่:** [nobphadon.sr.27@gmail.com](mailto:nobphadon.sr.27@gmail.com)  
 
 ---
 
-## 🛠️ **เทคโนโลยีและเครื่องมือที่ผมใช้**
+## 🛠️ **เครื่องมือที่ผมใช้**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,7 +31,7 @@
 
 ---
 
-## 📈 **สถิติ GitHub ของข่อย**
+## 📈 **สถิติ GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NobphadonSR&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
