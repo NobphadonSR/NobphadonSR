@@ -2,16 +2,12 @@
 ---
 
 ## 🚀 **เกี่ยวกับผม (About Me)**
-- 🎯 **ตำแหน่งปัจจุบัน:** Software Development ที่ **Sakol Work (Sakol Group)** 
+- 🎯 **ตำแหน่งปัจจุบัน:** Software Development / Automation Engineer (n8n, Make.com)** 
 - 🎓 **Hard Skill:**  
   - **Frontend:** React.js, Angular, Tailwind CSS, Bootstrap 
   - **Backend:** Django Framework, Node.js, React, Next.js  
   - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase  
 - 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):** Automation Ai
-- 🤝 **เปิดรับโอกาสร่วมงาน:**  
-  - การพัฒนาโปรเจกต์ 
-  - การทำงานร่วมกันในโปรเจกต์ Full-stack  
-  - การทำระบบที่สามารถขยายขนาดได้ (Scalable System)
 - 📬 **ติดต่อผมได้ที่:** [nobphadon.sr.27@gmail.com](mailto:nobphadon.sr.27@gmail.com)  
 
 ---
