@@ -2,7 +2,7 @@
 ---
 
 ## 🚀 **เกี่ยวกับผม (About Me)**
-- 🎯 **ตำแหน่งปัจจุบัน:** Software Development / Automation Engineer (n8n, Make.com)** 
+- 🎯 **ตำแหน่งปัจจุบัน:** Software Development / Automation Engineer (n8n, Make.com)
 - 🎓 **Hard Skill:**  
   - **Frontend:** React.js, Angular, Tailwind CSS, Bootstrap 
   - **Backend:** Django Framework, Node.js, React, Next.js  
