@@ -4,9 +4,11 @@
 ## 🚀 **เกี่ยวกับผม (About Me)**
 - 🎯 **ตำแหน่งปัจจุบัน:** Software Development / Automation Engineer (n8n, Make.com)
 - 🎓 **Hard Skill:**  
-  - **Frontend:** React.js, Angular, Tailwind CSS, Bootstrap 
-  - **Backend:** Django Framework, Node.js, React, Next.js  
-  - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase  
+  - **Frontend:** Next.js, Tailwind CSS,  Bootstrap
+  - **Backend:** Django Framework (Lover), Node.js, React.js
+  - **Database:** PostgreSQL, SQLite3, MySQL, MongoDB, Firebase, Supabase
+  - **Programing Languege:** Python, JavaScripts
+  - **Deployment:** AWS, GCP , Docker
 - 🌱 **ตอนนี้กำลังเรียนรู้ (Currently learning):** Automation Ai
 - 📬 **ติดต่อผมได้ที่:** [nobphadon.sr.27@gmail.com](mailto:nobphadon.sr.27@gmail.com)  
 
