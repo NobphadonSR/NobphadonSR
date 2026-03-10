@@ -28,13 +28,6 @@
 
 ---
 
-## 📈 **สถิติ GitHub**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NobphadonSR&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
 ## 📫 **ติดต่อ**
 - 💼 **LinkedIn:** [Nobphadon Srimanta](https://www.linkedin.com/in/nobphadon-srimanta-9a1959342/)
 - 💼 **Jobsdb** [Nobphadon Srimanta](https://th.jobsdb.com/th/profile/nobphadon-srimanta-lGsqDRgsd5)
